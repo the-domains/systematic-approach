@@ -1,28 +1,40 @@
-name: systematic approach
-favicon: null
-layout_spectrum: 0.7232163148000836
-typography_spectrum: 0.6299369134940207
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.3571429
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.7627022
+  brandStrength: 0.811421301914379
+  lightness: 0.3182957
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.811421301914379
-  lightness: 0.015063044615089893
-  saturation: 0.7627021868247539
-  rhythmicContrast: 0.4006227646023035
-purpose: []
+  rhythmicContrast: 0.75
+typography_spectrum: 0.6299369134940207
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: systematic approach
