@@ -1,4 +1,5 @@
-layout_spectrum: 0.3571429
+favicon: null
+name: systematic approach
 opengraph:
   image: null
   type: null
@@ -18,7 +19,7 @@ collections:
 purpose: []
 color:
   saturation: 0.7627022
-  brandStrength: 0.811421301914379
+  brandStrength: 0.4028822
   lightness: 0.3182957
   brandColors:
     - '#B8B42D'
@@ -28,13 +29,12 @@ color:
     - '#DD403A'
   rhythmicContrast: 0.75
 typography_spectrum: 0.6299369134940207
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.3571429
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: systematic approach
+cta:
+  bucket: null
+  version: null
+  domain: null
